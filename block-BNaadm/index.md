@@ -2,9 +2,9 @@ writeCode
 
 #### Add to Assignment level 1
 
-Add comments to the blog application where
+Add comments to the blog application where 
 
-Each comment should have fields:
+Each comment should have  fields:
 
 - content of comment
 - article Id for reference to article
