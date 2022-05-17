@@ -2,9 +2,9 @@ writeCode
 
 Q. Create an express application named as `blog` using generator.
 
-- display webpages to
+- display webpages to 
 
-  - list all articles(only title)
+  - list all articles (only title)
 
 - article details page
 
